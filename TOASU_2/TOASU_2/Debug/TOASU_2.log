@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  TOASU_2.cpp
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(12): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(12): error C2143: синтаксическая ошибка: отсутствие ")" перед "{"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(17): error C2065: cout: необъявленный идентификатор
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(17): error C2065: endl: необъявленный идентификатор
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(18): error C2660: exit: функция не принимает 0 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(52): note:  см. объявление "exit"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(21): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(21): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(21): error C2143: синтаксическая ошибка: отсутствие ")" перед "{"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(24): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(24): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\gieko\source\repos\toasu_2\toasu_2\toasu_2.cpp(24): error C2143: синтаксическая ошибка: отсутствие ")" перед "{"
